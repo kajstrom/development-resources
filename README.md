@@ -7,3 +7,6 @@
 
 ##Feedback loops
 - [Greg Young: Production lessons](https://www.youtube.com/watch?v=urzK655T1sY)
+
+##Personal Development
+- [Matt Briggs: The role of a Senior Developer](http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/)
