@@ -10,3 +10,7 @@
 
 ##Personal Development
 - [Matt Briggs: The role of a Senior Developer](http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/)
+
+##Quality (or lack of it)
+
+- [Graham King: Facebook's Code Quality Problem](https://www.darkcoding.net/software/facebooks-code-quality-problem/)
