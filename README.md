@@ -8,7 +8,7 @@
 ## Feedback loops
 - [Greg Young: Production lessons](https://www.youtube.com/watch?v=urzK655T1sY)
 - [SE-Radio Episode 280: Gerald Weinberg on Bugs Errors and Software Quality](http://www.se-radio.net/2017/01/se-radio-episode-280-gerald-weinberg-on-bugs-errors-and-software-quality/)
-- [Greg Young: Stop Over-Engineering] (https://www.youtube.com/watch?v=GRr4xeMn1uU) Good tips on finding out what is really valuable to the business.
+- [Greg Young: Stop Over-Engineering](https://www.youtube.com/watch?v=GRr4xeMn1uU) Good tips on finding out what is really valuable to the business.
 
 ## Personal Development
 - [Matt Briggs: The role of a Senior Developer](http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/)
