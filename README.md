@@ -16,3 +16,6 @@
 ## Quality (or lack of it)
 
 - [Graham King: Facebook's Code Quality Problem](https://www.darkcoding.net/software/facebooks-code-quality-problem/)
+
+## Scale
+- [Lawrence Kesteloot: Norris Numbers](https://www.teamten.com/lawrence/writings/norris-numbers.html)
