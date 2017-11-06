@@ -1,6 +1,9 @@
 ## Analyzing a project
 - [Greg Young: How to get productive in a project in 24 hours](https://www.youtube.com/watch?v=KaLROwp-VDY)
 
+## Business
+- [Mary Poppendieck: The Cost Center Trap](http://www.leanessays.com/2017/11/the-cost-center-trap.html)
+
 ## Commits
 - [Arialdo Martini: Preemptive commit comments](https://arialdomartini.wordpress.com/2012/09/03/pre-emptive-commit-comments/)
 - [Dan Bergh Johnsson: Know your next commit](http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_Next_Commit)
