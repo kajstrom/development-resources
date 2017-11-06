@@ -2,6 +2,8 @@
 - [Greg Young: How to get productive in a project in 24 hours](https://www.youtube.com/watch?v=KaLROwp-VDY)
 
 ## Business
+Not strictly technical, but don't ignore the big picture why things (and your project) are being done.
+
 - [Mary Poppendieck: The Cost Center Trap](http://www.leanessays.com/2017/11/the-cost-center-trap.html)
 
 ## Commits
