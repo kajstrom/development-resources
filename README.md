@@ -21,6 +21,7 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 ## Quality (or lack of it)
 
 - [Graham King: Facebook's Code Quality Problem](https://www.darkcoding.net/software/facebooks-code-quality-problem/)
+- [Jonas Bandi: The Software Grief Cycle](http://blog.jonasbandi.net/2014/07/the-software-grief-cycle.html)
 
 ## Scale
 - [Lawrence Kesteloot: Norris Numbers](https://www.teamten.com/lawrence/writings/norris-numbers.html)
