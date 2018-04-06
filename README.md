@@ -12,6 +12,7 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 
 ## Documentation
 - [How to make a good changelog](https://keepachangelog.com)
+- [Gregory Brown: An efficient approach to continuous documentation](https://www.oreilly.com/ideas/an-efficient-approach-to-continuous-documentation)
 
 ## Feedback loops
 - [Greg Young: Production lessons](https://www.youtube.com/watch?v=urzK655T1sY)
