@@ -10,6 +10,9 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 - [Arialdo Martini: Preemptive commit comments](https://arialdomartini.wordpress.com/2012/09/03/pre-emptive-commit-comments/)
 - [Dan Bergh Johnsson: Know your next commit](http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_Next_Commit)
 
+## Documentation
+- [How to make a good changelog](https://keepachangelog.com)
+
 ## Feedback loops
 - [Greg Young: Production lessons](https://www.youtube.com/watch?v=urzK655T1sY)
 - [SE-Radio Episode 280: Gerald Weinberg on Bugs Errors and Software Quality](http://www.se-radio.net/2017/01/se-radio-episode-280-gerald-weinberg-on-bugs-errors-and-software-quality/)
