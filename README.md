@@ -20,6 +20,9 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 - [SE-Radio Episode 280: Gerald Weinberg on Bugs Errors and Software Quality](http://www.se-radio.net/2017/01/se-radio-episode-280-gerald-weinberg-on-bugs-errors-and-software-quality/)
 - [Greg Young: Stop Over-Engineering](https://www.youtube.com/watch?v=GRr4xeMn1uU) Good tips on finding out what is really valuable to the business.
 
+## Naming
+- [Mathias Verraes: Sensible Interfaces](http://verraes.net/2013/09/sensible-interfaces/)
+
 ## Objects
 - [Ted Neward: The Vietnam of Computer Science](http://blogs.tedneward.com/post/the-vietnam-of-computer-science)
 
