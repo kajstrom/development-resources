@@ -29,6 +29,7 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 ## Personal Development
 - [Matt Briggs: The role of a Senior Developer](http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/)
 - [Peter Norvig: Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+- [Randy Shoup: Attitude Determines Altitude: Engineering Yourself & Your Teams](https://www.youtube.com/watch?v=y1SpwCiRoPY)
 
 ## Quality (or lack of it)
 
