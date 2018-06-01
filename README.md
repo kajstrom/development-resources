@@ -6,6 +6,9 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 
 - [Mary Poppendieck: The Cost Center Trap](http://www.leanessays.com/2017/11/the-cost-center-trap.html)
 
+## Design
+- [Rich Hickey: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+
 ## Commits
 - [Arialdo Martini: Preemptive commit comments](https://arialdomartini.wordpress.com/2012/09/03/pre-emptive-commit-comments/)
 - [Dan Bergh Johnsson: Know your next commit](http://programmer.97things.oreilly.com/wiki/index.php/Know_Your_Next_Commit)
