@@ -8,6 +8,7 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 
 ## Design
 - [Rich Hickey: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+- [Rich Hickey: Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 ## Commits
 - [Arialdo Martini: Preemptive commit comments](https://arialdomartini.wordpress.com/2012/09/03/pre-emptive-commit-comments/)
