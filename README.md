@@ -42,5 +42,8 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 - [Graham King: Facebook's Code Quality Problem](https://www.darkcoding.net/software/facebooks-code-quality-problem/)
 - [Jonas Bandi: The Software Grief Cycle](http://blog.jonasbandi.net/2014/07/the-software-grief-cycle.html)
 
+## Refactoring
+- [Thomas Pierrain & Bruno Boucard: Distill the Core Domain from Your Legacy App](https://www.youtube.com/watch?v=F3DV9YDeA6Q)
+
 ## Scale
 - [Lawrence Kesteloot: Norris Numbers](https://www.teamten.com/lawrence/writings/norris-numbers.html)
