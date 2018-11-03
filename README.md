@@ -45,5 +45,8 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 ## Refactoring
 - [Thomas Pierrain & Bruno Boucard: Distill the Core Domain from Your Legacy App](https://www.youtube.com/watch?v=F3DV9YDeA6Q)
 
+## REST
+- [REST was NEVER about CRUD](https://tyk.io/blog/rest-never-crud/)
+
 ## Scale
 - [Lawrence Kesteloot: Norris Numbers](https://www.teamten.com/lawrence/writings/norris-numbers.html)
