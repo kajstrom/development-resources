@@ -30,6 +30,7 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 
 ## Objects
 - [Ted Neward: The Vietnam of Computer Science](http://blogs.tedneward.com/post/the-vietnam-of-computer-science)
+- [Martin Fowler: Anemic Domain Model](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
 
 ## Personal Development
 - [Matt Briggs: The role of a Senior Developer](http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/)
