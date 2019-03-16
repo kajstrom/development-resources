@@ -11,6 +11,7 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 - [Rich Hickey: Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [Rich Hickey: Design, Composition, and Performance](https://www.infoq.com/presentations/design-composition-performance-keynote)
 - [Alvaro Videla: Programming as Translation](https://increment.com/internationalization/programming-as-translation/)
+- [Scott Wlaschin: Domain Modeling Made Functional](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 
 ## Commits
 - [Arialdo Martini: Preemptive commit comments](https://arialdomartini.wordpress.com/2012/09/03/pre-emptive-commit-comments/)
