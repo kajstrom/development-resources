@@ -46,6 +46,7 @@ Not strictly technical, but don't ignore the big picture why things (and your pr
 
 - [Graham King: Facebook's Code Quality Problem](https://www.darkcoding.net/software/facebooks-code-quality-problem/)
 - [Jonas Bandi: The Software Grief Cycle](http://blog.jonasbandi.net/2014/07/the-software-grief-cycle.html)
+- [Isaac Lyman: Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
 
 ## Refactoring
 - [Thomas Pierrain & Bruno Boucard: Distill the Core Domain from Your Legacy App](https://www.youtube.com/watch?v=F3DV9YDeA6Q)
