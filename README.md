@@ -1,3 +1,5 @@
+## Agile
+ - [Sjoerd Nijland: The unmistakable signs you are participating in Fake Agile theater!](https://medium.com/serious-scrum/the-unmistakable-signs-you-are-participating-in-fake-agile-theater-a7d1bd6a5dbc)
 ## Analyzing a project
 - [Greg Young: How to get productive in a project in 24 hours](https://www.youtube.com/watch?v=KaLROwp-VDY)
 
